@@ -4,5 +4,8 @@
         "fr_birds/fr_birds_echo_humm_2s.wav",
         "fr_birds/fr_birds_echo_humm_8s.wav",
         "fr_birds/fr_birds_echo_humm_81s.wav",
-        "fr_birds/fr_birds_echo_humm_tape.wav"]
+        "fr_birds/fr_birds_echo_humm_tape.wav"],
+    "bass": [
+        "bass/drone0.wav"
+    ]
 }
