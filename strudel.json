@@ -1,5 +1,5 @@
 {
     "_base": "https://raw.githubusercontent.com/wyan/livecoding-samples/main/",
-    "fr_birds": ["fr_birds/fr_birds_echo_humm.wav", "fr_birds/fr_birds_echo_humm_tape.wav"]
-
+    "fr_birds": ["fr_birds/fr_birds_echo_humm.wav", "fr_birds/fr_birds_echo_humm_tape.wav"],
+    "fr_bird": ["fr_birds/fr_birds_echo_humm.wav", "fr_birds/fr_birds_echo_humm_tape.wav"]
 }
