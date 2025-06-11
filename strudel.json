@@ -5,6 +5,9 @@
         "fr_birds/fr_birds_echo_humm_8s.wav",
         "fr_birds/fr_birds_echo_humm_81s.wav",
         "fr_birds/fr_birds_echo_humm_tape.wav"],
+    "fr_ocean": [
+        "724582__sachajulien__atlantic-ocean-waves.wav",
+    ],
     "bass": [
         "bass/drone0.wav"
     ]
